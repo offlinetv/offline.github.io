@@ -1,2 +1,2 @@
-# offline.github.io
+# offlinetv.github.io
 offlinetv.gg
